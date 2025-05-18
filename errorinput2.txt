@@ -1,4 +1,0 @@
-function saludo(nombre) {
-  nombre == "Zoe";
-  console.log(nombre);
-}
