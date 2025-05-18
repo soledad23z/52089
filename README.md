@@ -8,8 +8,8 @@ Este proyecto implementa un **analizador léxico y sintáctico** para una gramá
 - Editor recomendado: Visual Studio Code
   
  # Cloná el repositorio:
-git clone https://github.com/soledad23z/52089.git
-cd mi-analizador
+-git clone https://github.com/soledad23z/52089.git
+-cd Myanalizador
 >Instalá las dependencias: npm install
 >Generá los archivos a partir de la gramática:java -jar antlr-4.13.2-complete.jar -Dlanguage=JavaScript -visitor - generated JavaScriptGrammar.g4
  #Ejecución del Analizador
